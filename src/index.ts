@@ -4,6 +4,9 @@ const VitePluginVitePress = (): PluginOption => {
   return {
     name: 'vite-plugin-VitePress',
   }
+
+
+  
 }
 
 export { VitePluginVitePress }
